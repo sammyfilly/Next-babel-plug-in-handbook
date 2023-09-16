@@ -15,7 +15,7 @@
   "license": "cc-by-4.0",
   "dependencies": {
     "default-pager": "^1.0.1",
-    "marked-man": "^0.7.0"
+    "marked-man": "^1.0.0"
   },
   "bin": {
     "babel-plugin-handbook": "bin.js"
